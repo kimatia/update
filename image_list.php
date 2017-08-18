@@ -5,7 +5,7 @@ $result1=mysqli_query($conn,$query1);
 ?>
 <html>
 <head>
-<title>Insert Update Delete and Edit image Using Php and Mysqli</title>
+<title>Insert Update Delete and Edit image.</title>
 </head>
 <body>
 <br>
